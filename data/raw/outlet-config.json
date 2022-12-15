@@ -1,0 +1,352 @@
+[
+    {
+        "name": "HuffPost",
+        "tld": "huffpost.com",
+        "filter": "(https?\\://)?((www)\\.)?huffpost\\.com/((?=entry|archive|highline|feature))",
+        "allsides_rating": "left",
+        "allsides_name": "HuffPost"
+    },
+    {
+        "name": "Daily Beast",
+        "tld": "thedailybeast.com",
+        "filter": "(https?\\://)?((www)\\.)?thedailybeast\\.com/(?!author/)",
+        "allsides_rating": "left",
+        "allsides_name": "Daily Beast"
+    },
+    {
+        "name": "Vox",
+        "tld": "vox.com",
+        "filter": "(https?\\://)?((www)\\.)?vox\\.com/(?!(authors)|(ad)|(rss)|(users)|(.*/archives))",
+        "allsides_rating": "left",
+        "allsides_name": "Vox"
+    },
+    {
+        "name": "Rolling Stone",
+        "tld": "rollingstone.com",
+        "filter": "(https?\\://)?((www)\\.)?rollingstone\\.com/(?!(author/)|(t/))",
+        "allsides_rating": "left",
+        "allsides_name": "RollingStone.com"
+    },
+    {
+        "name": "Newsweek",
+        "tld": "newsweek.com",
+        "filter": "(https?\\://)?((www)\\.)?newsweek\\.com/(?!(authors/)|(topic/)|(tags/)|(amplify(/|\\?)))",
+        "allsides_rating": "left",
+        "allsides_name": "Newsweek"
+    },
+    {
+        "name": "MSNBC",
+        "tld": "msnbc.com",
+        "filter": "(https?\\://)?((www)\\.)?msnbc\\.com/(?!(.*/watch/)|(.*/embedded-video))",
+        "allsides_rating": "left",
+        "allsides_name": "MSNBC"
+    },
+    {
+        "name": "Vice",
+        "tld": "vice.com",
+        "filter": "(https?\\://)?((www)\\.)?vice\\.com/(amp/)?(?=(en/article/))",
+        "allsides_rating": "left",
+        "allsides_name": "Vice"
+    },
+    {
+        "name": "Slate",
+        "tld": "slate.com",
+        "filter": "",
+        "allsides_rating": "left",
+        "allsides_name": "Slate"
+    },
+    {
+        "name": "New York Daily News",
+        "tld": "nydailynews.com",
+        "filter": "",
+        "allsides_rating": "left",
+        "allsides_name": "New York Daily News"
+    },
+    {
+        "name": "The New Yorker",
+        "tld": "newyorker.com",
+        "filter": "",
+        "allsides_rating": "left",
+        "allsides_name": "The New Yorker"
+    },
+    {
+        "name": "CNN",
+        "tld": "cnn.com",
+        "filter": "https?\\://((www|edition)\\.)?cnn\\.com/((?!videos|2001|2002|2003|2004|2005|2006|2007|2008|2009))",
+        "allsides_rating": "lean left",
+        "allsides_name": "CNN (Web News)"
+    },
+    {
+        "name": "The New York Times",
+        "tld": "nytimes.com",
+        "filter": "",
+        "allsides_rating": "lean left",
+        "allsides_name": "New York Times (News)"
+    },
+    {
+        "name": "The Guardian",
+        "tld": "theguardian.com",
+        "filter": "",
+        "allsides_rating": "lean left",
+        "allsides_name": "The Guardian"
+    },
+    {
+        "name": "The Washington Post",
+        "tld": "washingtonpost.com",
+        "filter": "",
+        "allsides_rating": "lean left",
+        "allsides_name": "Washington Post"
+    },
+    {
+        "name": "Bloomberg",
+        "tld": "bloomberg.com",
+        "filter": "",
+        "allsides_rating": "lean left",
+        "allsides_name": "Bloomberg"
+    },
+    {
+        "name": "ABC News",
+        "tld": "abcnews.go.com",
+        "filter": "",
+        "allsides_rating": "lean left",
+        "allsides_name": "ABC News (Online)"
+    },
+    {
+        "name": "NBC News",
+        "tld": "nbcnews.com",
+        "filter": "",
+        "allsides_rating": "lean left",
+        "allsides_name": "NBC News (Online)"
+    },
+    {
+        "name": "Politico",
+        "tld": "politico.com",
+        "filter": "",
+        "allsides_rating": "lean left",
+        "allsides_name": "Politico"
+    },
+    {
+        "name": "U.S. News & World Report",
+        "tld": "usnews.com",
+        "filter": "",
+        "allsides_rating": "lean left",
+        "allsides_name": "U.S. News & World Report"
+    },
+    {
+        "name": "CBS News",
+        "tld": "cbsnews.com",
+        "filter": "",
+        "allsides_rating": "lean left",
+        "allsides_name": "CBS News"
+    },
+    {
+        "name": "BBC News",
+        "tld": "bbc.com/news",
+        "filter": "",
+        "allsides_rating": "center",
+        "allsides_name": "BBC News"
+    },
+    {
+        "name": "Heavy",
+        "tld": "heavy.com",
+        "filter": "",
+        "allsides_rating": "center",
+        "allsides_name": "Heavy.com"
+    },
+    {
+        "name": "Business Insider",
+        "tld": "businessinsider.com",
+        "filter": "",
+        "allsides_rating": "center",
+        "allsides_name": "Business Insider"
+    },
+    {
+        "name": "Patch",
+        "tld": "patch.com",
+        "filter": "",
+        "allsides_rating": "center",
+        "allsides_name": "Patch.com"
+    },
+    {
+        "name": "CNBC",
+        "tld": "cnbc.com",
+        "filter": "",
+        "allsides_rating": "center",
+        "allsides_name": "CNBC"
+    },
+    {
+        "name": "Forbes",
+        "tld": "forbes.com",
+        "filter": "",
+        "allsides_rating": "center",
+        "allsides_name": "Forbes"
+    },
+    {
+        "name": "Reuters",
+        "tld": "reuters.com",
+        "filter": "",
+        "allsides_rating": "center",
+        "allsides_name": "Reuters"
+    },
+    {
+        "name": "FiveThirtyEight",
+        "tld": "fivethirtyeight.com",
+        "filter": "",
+        "allsides_rating": "center",
+        "allsides_name": "FiveThirtyEight"
+    },
+    {
+        "name": "USA TODAY",
+        "tld": "usatoday.com",
+        "filter": "",
+        "allsides_rating": "center",
+        "allsides_name": "USA TODAY"
+    },
+    {
+        "name": "Wall Street Journal",
+        "tld": "wsj.com",
+        "filter": "",
+        "allsides_rating": "center",
+        "allsides_name": "Wall Street Journal (News)"
+    },
+    {
+        "name": "Fox News",
+        "tld": "foxnews.com",
+        "filter": "",
+        "allsides_rating": "lean right",
+        "allsides_name": "Fox News (Online News)"
+    },
+    {
+        "name": "New York Post",
+        "tld": "nypost.com",
+        "filter": "",
+        "allsides_rating": "lean right",
+        "allsides_name": "New York Post (News)"
+    },
+    {
+        "name": "The Epoch Times",
+        "tld": "theepochtimes.com",
+        "filter": "",
+        "allsides_rating": "lean right",
+        "allsides_name": "The Epoch Times"
+    },
+    {
+        "name": "Drudge Report",
+        "tld": "drudgereport.com",
+        "filter": "",
+        "allsides_rating": "lean right",
+        "allsides_name": "Drudge Report"
+    },
+    {
+        "name": "ZeroHedge",
+        "tld": "zerohedge.com",
+        "filter": "",
+        "allsides_rating": "lean right",
+        "allsides_name": "ZeroHedge"
+    },
+    {
+        "name": "Newsmax",
+        "tld": "newsmax.com",
+        "filter": "",
+        "allsides_rating": "lean right",
+        "allsides_name": "Newsmax (News)"
+    },
+    {
+        "name": "Washington Examiner",
+        "tld": "washingtonexaminer.com",
+        "filter": "",
+        "allsides_rating": "lean right",
+        "allsides_name": "Washington Examiner"
+    },
+    {
+        "name": "Washington Times",
+        "tld": "washingtontimes.com",
+        "filter": "",
+        "allsides_rating": "lean right",
+        "allsides_name": "Washington Times"
+    },
+    {
+        "name": "Reason",
+        "tld": "reason.com",
+        "filter": "",
+        "allsides_rating": "lean right",
+        "allsides_name": "Reason"
+    },
+    {
+        "name": "Orange County Register",
+        "tld": "ocregister.com",
+        "filter": "",
+        "allsides_rating": "lean right",
+        "allsides_name": "Orange County Register"
+    },
+    {
+        "name": "Breitbart News",
+        "tld": "breitbart.com",
+        "filter": "",
+        "allsides_rating": "right",
+        "allsides_name": "Breitbart News"
+    },
+    {
+        "name": "The Western Journal",
+        "tld": "westernjournal.com",
+        "filter": "",
+        "allsides_rating": "right",
+        "allsides_name": "The Western Journal"
+    },
+    {
+        "name": "The Gateway Pundit",
+        "tld": "thegatewaypundit.com",
+        "filter": "",
+        "allsides_rating": "right",
+        "allsides_name": "The Gateway Pundit"
+    },
+    {
+        "name": "The Daily Caller",
+        "tld": "dailycaller.com",
+        "filter": "",
+        "allsides_rating": "right",
+        "allsides_name": "The Daily Caller"
+    },
+    {
+        "name": "TheBlaze",
+        "tld": "theblaze.com",
+        "filter": "",
+        "allsides_rating": "right",
+        "allsides_name": "TheBlaze.com"
+    },
+    {
+        "name": "Bizpac Review",
+        "tld": "bizpacreview.com",
+        "filter": "",
+        "allsides_rating": "right",
+        "allsides_name": "Bizpac Review"
+    },
+    {
+        "name": "National Review",
+        "tld": "nationalreview.com",
+        "filter": "",
+        "allsides_rating": "right",
+        "allsides_name": "National Review"
+    },
+    {
+        "name": "Red State",
+        "tld": "redstate.com",
+        "filter": "",
+        "allsides_rating": "right",
+        "allsides_name": "Red State"
+    },
+    {
+        "name": "PJ Media",
+        "tld": "pjmedia.com",
+        "filter": "",
+        "allsides_rating": "right",
+        "allsides_name": "PJ Media"
+    },
+    {
+        "name": "Townhall",
+        "tld": "townhall.com",
+        "filter": "",
+        "allsides_rating": "right",
+        "allsides_name": "Townhall"
+    }
+]

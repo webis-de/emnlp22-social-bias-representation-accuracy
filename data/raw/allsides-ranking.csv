@@ -1,0 +1,411 @@
+outlet,website,bias,communityAgrees,communityDisagrees,communityFeedback,alexaRank
+ABC News (Online),https://abcnews.go.com/,Lean Left,28453,15139,agree,522
+Above The Law,https://abovethelaw.com/,Lean Left,173,70,strongly agree,39458
+Abridge News,https://abridgenews.com/,Mixed,313,187,agree,
+AJ+,https://www.ajplus.net/,Left,409,137,strongly agree,328034
+Al Jazeera,https://www.aljazeera.com/,Lean Left,4508,7011,disagree,1325
+AllSides,https://www.allsides.com/unbiased-balanced-news,Mixed,3926,1557,strongly agree,22259
+AllSides Community,https://www.allsides.com/dictionary/community,Mixed,2494,1435,agree,22259
+AlterNet,https://www.alternet.org/,Left,10255,2208,absolutely agree,33341
+American Greatness,https://amgreatness.com/,Right,362,127,strongly agree,28349
+American Thinker,https://www.americanthinker.com/,Right,1774,953,agree,12572
+AP Politics & Fact Check,https://apnews.com/hub/ap-fact-check,Lean Left,1665,1928,somewhat disagree,1047
+Aquinas College Saint,https://aquinas.edu/saint/about-saint,Left,943,605,agree,167498
+Arkansas Democrat-Gazette,https://www.arkansasonline.com/,Left,993,752,somewhat agree,58996
+Associated Press,https://apnews.com/,Center,20254,14951,somewhat agree,1047
+Atlanta Black Star,https://atlantablackstar.com/,Lean Left,31,57,disagree,64636
+Atlanta Journal-Constitution,https://www.ajc.com/,Lean Left,995,896,somewhat agree,7867
+Austin American-Statesman,https://www.statesman.com/,Lean Left,842,664,somewhat agree,27221
+Axios,https://www.axios.com/,Center,3235,3565,somewhat disagree,4841
+AZ Central,https://www.azcentral.com/,Center,161,255,disagree,4598
+Babylon Bee (Humor),https://babylonbee.com/,Lean Right,311,94,absolutely agree,12614
+Barnstable Patriot,https://www.barnstablepatriot.com/,Center,545,635,somewhat disagree,811132
+BBC News,https://www.bbc.com/news,Center,23491,20446,somewhat agree,86
+Bearing Drift,https://bearingdrift.com/,Right,661,567,somewhat agree,1817564
+BET,https://www.bet365.com/,Lean Left,202,265,somewhat disagree,238
+Biblical Gender Roles,https://biblicalgenderroles.com/,Right,58,10,absolutely agree,875778
+Biblical Sexology,https://biblicalsexology.com/,Right,39,19,strongly agree,
+Bizpac Review,https://www.bizpacreview.com/,Right,31,17,agree,4195
+Black Enterprise,https://www.blackenterprise.com/,Lean Left,33,55,disagree,31685
+Block Club Chicago,https://blockclubchicago.org/,Left,30,14,strongly agree,53100
+Bloomberg,https://www.bloomberg.com/,Lean Left,12786,18511,somewhat disagree,401
+Blue Virginia,https://bluevirginia.us/,Left,784,561,somewhat agree,950717
+Boing Boing,https://boingboing.net/,Left,913,586,agree,7258
+Boston Herald,https://www.bostonherald.com/,Lean Right,499,415,somewhat agree,25412
+Boston Herald Editorial,https://www.bostonherald.com/opinion/editorials/,Lean Right,271,262,somewhat agree,25412
+Boston Review,http://bostonreview.net/,Lean Left,37,32,somewhat agree,125521
+Bowling Green Daily News,https://www.bgdailynews.com/,Lean Left,618,650,somewhat disagree,281206
+Braver Angels,https://braverangels.org/,Mixed,113,82,somewhat agree,
+Breitbart News,https://www.breitbart.com/,Right,32313,10213,absolutely agree,204
+Bridgemi.com,https://www.bridgemi.com/,Center,118,94,somewhat agree,102474
+Brown Girl Magazine,https://www.browngirlmagazine.com/,Left,72,19,absolutely agree,287900
+Business Insider,https://www.businessinsider.com/,Center,2879,4141,somewhat disagree,251
+Bustle,https://www.bustle.com/,Lean Left,840,813,somewhat agree,2779
+BuzzFeed News,https://www.buzzfeednews.com/,Left,18646,8457,strongly agree,5102
+C-SPAN,https://www.c-span.org/,Center,3658,1171,absolutely agree,10048
+CalMatters,https://calmatters.org/,Center,736,618,somewhat agree,34312
+CalWatchdog,https://calwatchdog.com/,Center,559,596,somewhat disagree,3392769
+Care2,https://www.care2.com/,Left,618,650,somewhat disagree,85008
+CBN,https://www.cbn.com/,Right,6793,3484,agree,24035
+CBS News,https://www.cbsnews.com/,Lean Left,15300,10077,agree,841
+Center for Public Integrity,https://publicintegrity.org/,Lean Left,705,822,somewhat disagree,181637
+Centre View,http://www.centre-view.com/,Lean Left,596,660,somewhat disagree,
+Check Your Fact,https://checkyourfact.com/,Lean Right,106,139,somewhat disagree,114311
+Chicago Crusader,https://chicagocrusader.com/,Left,32,10,absolutely agree,350949
+Chicago Defender,https://chicagodefender.com/,Left,60,22,strongly agree,467734
+Chicago Sun-Times,https://chicago.suntimes.com/,Lean Left,823,832,somewhat disagree,14094
+Chicago Tribune,https://www.chicagotribune.com/,Center,2003,3665,disagree,2265
+Christian Science Monitor,https://www.csmonitor.com/,Center,13568,17014,somewhat disagree,25549
+Christianity Today,https://www.christianitytoday.com/,Lean Right,140,222,disagree,25629
+City Journal,https://www.city-journal.org/,Right,428,340,somewhat agree,60902
+CNBC,https://www.cnbc.com/,Center,2419,5513,strongly disagree,272
+CNET,https://www.cnet.com/,Center,394,327,somewhat agree,172
+CNN (Opinion),https://edition.cnn.com/opinions,Left,24478,5622,absolutely agree,69
+CNN (Web News),https://edition.cnn.com/,Lean Left,40260,42969,somewhat disagree,69
+CNSNews.com,https://www.cnsnews.com/,Right,924,747,somewhat agree,49769
+Columbia Journalism Review,https://www.cjr.org/,Center,226,433,disagree,56759
+Columbia Missourian,https://www.columbiamissourian.com/,Center,14,7,agree,218871
+Commentary Magazine,https://www.commentarymagazine.com/,Right,247,249,somewhat disagree,110709
+Common Dreams,https://www.commondreams.org/,Left,43,10,absolutely agree,25404
+Concord Monitor,https://www.concordmonitor.com/,Center,42,46,somewhat disagree,169275
+Conservative HQ,https://www.conservatives.com/contact,Right,879,411,strongly agree,493487
+Cook Report,https://cookpolitical.com/,Center,932,608,agree,29216
+Counter Currents,https://countercurrents.org/,Lean Left,369,272,somewhat agree,197490
+Counterpointing,https://www.counterpoint.com/,Mixed,398,365,somewhat agree,
+CrowdPAC,https://www.crowdpac.com/,Center,433,450,somewhat disagree,986792
+CU Independent,https://cuindependent.com/,Center,369,442,somewhat disagree,2151936
+Current Affairs,https://www.currentaffairs.org/,Left,399,176,strongly agree,88024
+Daily Beast,https://www.thedailybeast.com/,Left,15591,5483,strongly agree,1380
+Daily Breeze,https://www.dailybreeze.com/,Center,7,19,strongly disagree,92617
+Daily Cardinal,https://www.dailycardinal.com/,Center,434,471,somewhat disagree,344774
+Daily Chela,https://www.dailychela.com/,Left,24,17,somewhat agree,
+Daily Citizen,https://www.wiscnews.com/bdc/,Right,43,17,strongly agree,218644
+Daily Kos,https://www.dailykos.com/,Left,5578,2060,strongly agree,4712
+Daily Mail,https://www.dailymail.co.uk/,Right,8640,4913,agree,252
+Daily Northwestern,https://dailynorthwestern.com/,Lean Left,396,412,somewhat disagree,218499
+Daily Press,https://www.dailypress.com/,Lean Right,388,488,somewhat disagree,65165
+Daily Progress,https://dailyprogress.com/,Center,441,450,somewhat disagree,127270
+Daily Targum,https://dailytargum.com/,Lean Left,279,410,somewhat disagree,488757
+Defense One,https://www.defenseone.com/,Center,295,277,somewhat agree,81405
+Democracy Now,https://www.democracynow.org/,Left,10843,2616,absolutely agree,29231
+Des Moines Register,https://www.desmoinesregister.com/,Center,131,178,somewhat disagree,37390
+Deseret News,https://www.deseret.com/,Lean Right,1186,1809,disagree,
+Desiring God,https://www.desiringgod.org/,Lean Right,6,6,,24417
+Detroit Free Press,https://www.freep.com/,Lean Left,223,275,somewhat disagree,7660
+Detroit News,https://www.detroitnews.com/,Center,124,216,disagree,13411
+Diplomatic Courier,https://www.diplomaticourier.com,Center,372,301,somewhat agree,
+Drudge Report,https://www.drudgereport.com/,Lean Right,2220,1844,somewhat agree,1083
+Duke Chronicle,https://www.dukechronicle.com/,Center,417,422,somewhat disagree,239334
+East Bay Times,https://www.eastbaytimes.com/,Lean Left,85,52,agree,53022
+Elle Magazine,https://www.elle.com,Lean Left,5,2,strongly agree,2826
+Erraticus,https://erraticus.co/,Center,24,9,strongly agree,8510452
+Esquire,https://www.esquire.com/,Left,1134,570,agree,3426
+Estes Park Trail Gazette,https://www.eptrail.com/,Center,287,362,somewhat disagree,460680
+Eurek Alert,https://www.eurekalert.org/,Center,361,399,somewhat disagree,16115
+FactCheck.org,https://www.factcheck.org/,Center,7303,6214,somewhat agree,12679
+FAIR,https://fair.org/,Lean Left,564,565,somewhat disagree,235388
+Falls Church News - Press,https://fcnp.com/,Left,427,475,somewhat disagree,502207
+Financial Times,https://www.ft.com/,Center,743,484,agree,1462
+Fiscal Times,https://www.thefiscaltimes.com/,Lean Right,724,626,somewhat agree,449339
+FiveThirtyEight,https://fivethirtyeight.com/,Center,4306,3025,somewhat agree,409
+Forbes,https://www.forbes.com/,Center,10649,5918,agree,280
+Foreign Affairs,https://www.foreignaffairs.com/,Center,1030,567,agree,31588
+Foreign Policy,https://foreignpolicy.com/,Center,213,232,somewhat disagree,12570
+Fortune,https://fortune.com/,Center,131,235,disagree,5832
+Fox News (Online News),https://www.foxnews.com/,Lean Right,34921,42124,somewhat disagree,165
+Fox News (Opinion),https://www.foxnews.com/opinion,Right,20620,4730,absolutely agree,165
+Fox News Latino,https://www.foxnews.com/category/latino,Right,2362,1119,strongly agree,165
+FrontPage Magazine,https://www.frontpagemag.com/,Right,576,431,somewhat agree,45823
+Gizmodo,https://gizmodo.com/,Lean Left,172,140,somewhat agree,1941
+GLAAD,https://www.glaad.org/,Lean Left,28,105,absolutely disagree,110831
+Google News,https://news.google.com/,Lean Left,710,505,somewhat agree,1
+GQ.com,https://www.gq.com/,Lean Left,119,154,somewhat disagree,5937
+Grist,https://grist.org/,Lean Left,493,537,somewhat disagree,66981
+Hampton Roads Messanger,https://hamptonroadsmessenger.com/,Center,398,409,somewhat disagree,
+Harvard Business School,https://hbswk.hbs.edu/,Lean Left,752,904,somewhat disagree,5722
+Heavy.com,https://heavy.com/,Center,113,118,somewhat disagree,235
+Herald Democrat,https://www.heralddemocrat.com/,Left,491,398,somewhat agree,733774
+High Times,https://hightimes.com/,Lean Left,19,9,strongly agree,44611
+Hip Latina,https://hiplatina.com/,Left,6,4,somewhat agree,281615
+Honolulu Civil Beat,https://www.civilbeat.org/,Center,359,497,somewhat disagree,85396
+HotAir,https://hotair.com/,Lean Right,1044,933,somewhat agree,10679
+Houston Chronicle,https://www.chron.com/,Center,84,141,disagree,673
+How Do We Fix It?,https://www.howdowefixit.me/,Center,652,619,somewhat agree,
+HuffPost,https://www.huffpost.com/,Left,30964,21537,somewhat agree,812
+Idaho Statesman,https://www.idahostatesman.com/,Center,82,96,somewhat disagree,58909
+Inacow,https://www.inacow.com/,Right,404,298,somewhat agree,
+Independent Journal Review,https://ijr.org/,Lean Right,1258,1161,somewhat agree,
+Indiana Daily Student,https://www.idsnews.com/,Center,303,390,somewhat disagree,318478
+Indy Online,http://www.indyonline.co.uk/digital-editions,Center,300,329,somewhat disagree,
+Indy Week,https://indyweek.com/,Lean Left,323,355,somewhat disagree,228083
+IndyStar,https://www.indystar.com/,Center,8,13,disagree,27621
+InfoWars,https://www.infowars.com/,Right,4864,1075,absolutely agree,2435
+Inland Valley Daily Bulletin,https://www.dailybulletin.com/,Center,9,8,somewhat agree,196243
+Inside Philanthropy,https://www.insidephilanthropy.com/,Center,315,351,somewhat disagree,193472
+Intellectual Conservative,https://www.intellectualconservative.com,Lean Right,375,418,somewhat disagree,
+International Business Times,https://www.ibtimes.com/,Center,1051,820,somewhat agree,18234
+Investor's Business Daily,https://www.investors.com/,Lean Right,1223,983,somewhat agree,3551
+IVN,https://naturtextil.de/en/home/,Center,459,455,somewhat agree,
+Jacobin,https://jacobinmag.com/,Left,769,190,absolutely agree,25762
+Jefferson Public Radio,https://www.ijpr.org/,Center,4,2,agree,649058
+Jezebel,https://jezebel.com/,Left,254,91,strongly agree,10551
+Journalist's Resource,https://journalistsresource.org/,Center,293,326,somewhat disagree,140256
+JSTOR Daily,https://daily.jstor.org/,Center,19,13,somewhat agree,1208
+Jubilee Media,https://www.jubileemedia.com/,Center,223,228,somewhat disagree,584923
+Judicial Watch,https://www.judicialwatch.org/,Lean Right,1265,1345,somewhat disagree,49560
+Just The News,https://justthenews.com/,Center,111,362,absolutely disagree,
+KALW.org,https://www.kalw.org/,Center,11,16,somewhat disagree,283502
+KATU,https://katu.com/,Center,78,104,somewhat disagree,26887
+Kenosha News,https://www.kenoshanews.com/,Center,3,15,absolutely disagree,62442
+KQED,https://www.kqed.org/,Center,541,463,somewhat agree,20201
+KSL,https://www.ksl.com/,Right,943,799,somewhat agree,1731
+KWCH,https://www.kwch.com/,Center,7,2,absolutely agree,129920
+Las Vegas Sun,https://lasvegassun.com/,Lean Left,328,329,somewhat disagree,35954
+Latino Rebels,https://www.latinorebels.com/,Left,10,9,somewhat agree,753181
+Law & Crime,https://lawandcrime.com/,Center,4,3,somewhat agree,27998
+Leafly,https://www.leafly.com/,Left,8,3,strongly agree,4978
+Leesburg Today,https://www.loudountimes.com/,Lean Right,247,226,somewhat agree,528835
+LGBTQ Nation,https://www.lgbtqnation.com/,Lean Left,28,110,absolutely disagree,55872
+Lifehacker,https://lifehacker.com/,Center,383,372,somewhat agree,2402
+Listen First Project,http://www.listenfirstproject.org/,Mixed,153,128,somewhat agree,4665388
+Live Action News,https://www.liveaction.org/news/,Lean Right,331,226,somewhat agree,189509
+Live Science,https://www.livescience.com/,Center,29,27,somewhat agree,2937
+Long Beach Press-Telegram,https://www.presstelegram.com/,Center,4,12,strongly disagree,128552
+Longmont Times-Call,https://www.timescall.com/,Lean Left,214,184,somewhat agree,195690
+Los Angeles Daily News,https://www.dailynews.com/,Center,7,32,absolutely disagree,30702
+Los Angeles Times,https://www.latimes.com/,Lean Left,4623,3375,somewhat agree,1636
+Louisville Courier-Journal,https://www.courier-journal.com/,Lean Left,233,243,somewhat disagree,30893
+Making Sense,https://samharris.org/podcast/,Center,13,6,strongly agree,57702
+Marijuana Moment,https://www.marijuanamoment.net/,Lean Left,15,10,somewhat agree,30127
+MarketWatch,https://www.marketwatch.com/,Center,300,773,strongly disagree,489
+Mashable,https://mashable.com/,Left,527,226,strongly agree,1858
+McClatchyDC,https://www.mcclatchydc.com/,Center,97,127,somewhat disagree,91999
+Media Matters,https://www.mediamatters.org/,Left,2849,1650,agree,40434
+Media Research Center,https://www.mrc.org/,Right,1385,1658,somewhat disagree,365510
+Mediaite,https://www.mediaite.com/,Lean Left,813,804,somewhat agree,5977
+Miami Herald,https://www.miamiherald.com/,Lean Left,375,387,somewhat disagree,8039
+MichelleMalkin.com,http://michellemalkin.com/,Right,623,307,strongly agree,
+Michigan Daily,https://www.michigandaily.com/,Lean Left,266,245,somewhat agree,150927
+Military Times,https://militarytimes.com/,Center,61,55,somewhat agree,25359
+Misinformation Review,https://misinforeview.hks.harvard.edu/,Center,9,11,somewhat disagree,675
+Mismatch.org,https://mismatch.org/,Mixed,104,116,somewhat disagree,
+MIT News,https://news.mit.edu/,Center,268,222,somewhat agree,493
+Mitú,https://wearemitu.com/,Left,11,10,somewhat agree,125136
+Mother Jones,https://www.motherjones.com/,Left,12268,1852,absolutely agree,12188
+MSNBC,https://www.msnbc.com/,Left,15944,4334,absolutely agree,2079
+MTV News Online,https://www.mtv.com.lb/,Lean Left,122,197,disagree,16103
+National Geographic,https://www.nationalgeographic.com/,Center,7,7,,2170
+National Journal,https://www.nationaljournal.com/,Center,1016,770,somewhat agree,133654
+National Review,https://www.nationalreview.com/,Right,15878,6546,strongly agree,6409
+Nature.com,https://www.nature.com/,Center,60,34,agree,1145
+NBC News (Online),https://www.nbcnews.com/,Lean Left,9520,9771,somewhat disagree,596
+NBC Today Show,https://www.today.com/,Lean Left,1460,1517,somewhat disagree,2407
+New Discourses,https://newdiscourses.com/,Center,58,33,agree,
+New Hampshire Union Leader,https://www.unionleader.com/,Center,50,57,somewhat disagree,80697
+New Republic,https://newrepublic.com/,Left,1529,808,agree,24746
+New York Daily News,https://www.nydailynews.com/,Left,1333,602,strongly agree,2564
+New York Magazine,https://nymag.com/,Left,2109,921,strongly agree,3475
+New York Post (News),https://nypost.com/news/,Lean Right,10600,5937,agree,498
+New York Post (Opinion),https://nypost.com/opinion/,Right,131,56,strongly agree,498
+New York Times (News),https://www.nytimes.com/international/,Lean Left,24575,34209,somewhat disagree,78
+New York Times (Opinion),https://www.nytimes.com/section/opinion,Left,10502,2913,absolutely agree,78
+NewsBusters,https://www.newsbusters.org/,Right,466,252,agree,33600
+Newsmax (News),https://www.newsmax.com/,Lean Right,8272,9678,somewhat disagree,3259
+Newsmax - Opinion,https://www.newsmax.com/insiders/,Right,195,102,agree,3259
+NewsOne,https://newsone.com/,Left,200,78,strongly agree,61317
+Newsweek,https://www.newsweek.com/,Left,2784,3620,somewhat disagree,2053
+Newsy,https://www.newsy.com/,Center,173,78,strongly agree,151134
+Newtrals,https://www.newtrals.com/,Center,13,4,absolutely agree,
+Nieman Lab,https://www.niemanlab.org/,Center,46,39,somewhat agree,56840
+NMPolitics.net,https://nmpolitics.net/index/,Center,219,274,somewhat disagree,6190687
+NPR (Online News),https://www.npr.org/,Center,27442,23669,somewhat agree,499
+NPR (Opinion),https://www.npr.org/sections/opinion/,Lean Left,5977,6739,somewhat disagree,499
+One America News Network (OAN),https://www.oann.com/,Right,1556,1254,somewhat agree,10602
+Orange County Register,https://www.ocregister.com/,Lean Right,344,283,somewhat agree,10042
+Our.News,https://our.news/,Center,0,0,,177764
+Pacific Standard,https://psmag.com/,Lean Left,424,376,somewhat agree,111582
+Palm Springs Desert Sun,https://www.desertsun.com/,Center,3,7,strongly disagree,61703
+Pasadena Star-News,https://www.pasadenastarnews.com/,Center,11,5,strongly agree,146990
+Patch.com,https://patch.com/,Center,13,14,somewhat disagree,269
+PBS NewsHour,https://www.pbs.org/newshour/,Center,3023,2230,somewhat agree,1930
+Peacock Panache,https://www.peacock-panache.com/,Left,203,113,agree,3097261
+Phys.org,https://phys.org/,Center,172,93,agree,7373
+PinkNews,https://www.pinknews.co.uk/,Left,46,11,absolutely agree,37511
+Pittsburgh Post-Gazette,https://www.post-gazette.com/,Lean Right,316,364,somewhat disagree,16125
+PJ Media,https://pjmedia.com/,Right,574,250,strongly agree,6691
+Politico,https://www.politico.com/,Lean Left,20390,27287,somewhat disagree,679
+PoliticusUSA,https://www.politicususa.com/,Left,1055,359,strongly agree,7459
+PolitiFact,https://www.politifact.com/,Lean Left,4762,3840,somewhat agree,8774
+Portland Press Herald,https://www.pressherald.com/,Center,264,382,somewhat disagree,48974
+Poynter,https://www.poynter.org/,Center,79,138,disagree,28889
+PRI (Public Radio International),https://www.pri.org/,Center,764,492,agree,46431
+Progressive Voices of Iowa,https://wearepvi.com/,Left,247,154,agree,
+Project Veritas,https://www.projectveritas.com/,Lean Right,281,313,somewhat disagree,72557
+ProPublica,https://www.propublica.org/,Lean Left,1421,957,somewhat agree,12308
+Psychology Today,https://www.psychologytoday.com/,Center,72,71,somewhat agree,1535
+PXW News,http://www.pxw.news/,Center,208,222,somewhat disagree,
+Quartz,https://qz.com/,Center,653,661,somewhat disagree,5070
+Quillette,https://quillette.com/,Lean Right,484,757,disagree,41874
+Rasmussen Reports,https://www.rasmussenreports.com/,Center,598,871,somewhat disagree,19627
+Raw Story,https://www.rawstory.com/,Left,1087,478,strongly agree,5423
+RealClearPolitics,https://www.realclearpolitics.com/,Center,4124,4902,somewhat disagree,1126
+Reason,https://reason.com,Lean Right,7949,4912,agree,8914
+Record Journal,https://www.myrecordjournal.com/,Center,158,171,somewhat disagree,413528
+Red Racing Horses,https://rrhelections.com/,Right,48,57,somewhat disagree,1117039
+Red State,https://redstate.com,Right,790,292,strongly agree,6567
+Redlands Daily Facts,https://www.redlandsdailyfacts.com/,Center,3,9,strongly disagree,183981
+Refinery29,https://www.refinery29.com/en-us,Left,26,16,agree,3304
+Reuters,https://www.reuters.com/,Center,14153,7588,agree,406
+Richmond Times Dispatch,https://richmond.com/,Lean Right,276,238,somewhat agree,45374
+Right Side News,https://rightsidenews.com,Right,484,248,agree,2158351
+Right Wing News,https://rightwingnews.com,Right,434,213,strongly agree,425136
+Roll Call,https://www.rollcall.com/,Center,202,187,somewhat agree,40070
+RollingStone.com,https://www.rollingstone.com/,Left,1722,481,absolutely agree,2030
+Salon,https://www.salon.com/,Left,11427,5133,strongly agree,3635
+San Bernardino Sun,https://www.sbsun.com/,Center,10,2,absolutely agree,199873
+San Diego Union-Tribune,https://www.sandiegouniontribune.com/,Lean Left,7,11,disagree,16291
+San Francisco Chronicle,https://www.sfchronicle.com/,Left,1018,378,strongly agree,8971
+San Gabriel Valley Tribune,https://www.sgvtribune.com/,Center,9,7,somewhat agree,103465
+San Jose Mercury News,https://www.mercurynews.com/,Lean Left,465,475,somewhat disagree,6011
+Science Daily,https://www.sciencedaily.com/,Center,533,330,agree,4355
+Scientific American,https://www.scientificamerican.com/,Lean Left,1458,776,agree,4641
+SCOTUSblog,https://www.scotusblog.com/,Center,3,3,,60284
+Scriberr Media - News,https://www.scriberrnews.com,Center,38,20,agree,
+Scriberr Media - Opinion/Editorial,https://www.scriberrnews.com/opinion/,Lean Right,8,8,,
+SF Weekly,https://www.sfweekly.com/,Center,285,363,somewhat disagree,77634
+SFGate,https://www.sfgate.com/,Lean Left,502,544,somewhat disagree,1454
+Sky-Hi Daily News,https://www.skyhinews.com/,Lean Left,161,157,somewhat agree,217056
+Slate,https://slate.com/,Left,7565,3154,strongly agree,2209
+Smerconish,https://www.smerconish.com/,Center,201,266,somewhat disagree,211859
+Smithsonian Magazine,https://www.smithsonianmag.com/,Center,40,23,agree,7019
+Snopes,https://www.snopes.com/,Center,1327,2903,strongly disagree,4280
+Socialist Alternative,https://www.socialistalternative.org/,Left,489,219,strongly agree,726994
+Socialist Project/The Bullet,https://socialistproject.ca/bullet/,Left,429,195,strongly agree,947814
+South China Morning Post,https://www.scmp.com/,Center,5,25,absolutely disagree,2963
+Spectator USA,https://spectator.us/,Right,72,49,somewhat agree,50701
+Spiked,https://www.spiked-online.com/,Lean Right,11,17,disagree,84653
+Splinter,https://splinternews.com,Left,231,106,strongly agree,206640
+Spokesman Review,https://www.spokesman.com/,Lean Left,239,287,somewhat disagree,49089
+State Journal,https://www.state-journal.com/,Lean Left,194,277,somewhat disagree,373911
+StoryCorps,https://storycorps.org/,Mixed,96,79,somewhat agree,146030
+Students For Life,https://studentsforlife.org/,Lean Right,10,17,disagree,1562360
+Suspend Belief Podcast,http://suspendbeliefpodcast.com/,Mixed,164,194,somewhat disagree,
+Tallahassee Democrat,https://www.tallahassee.com/,Center,268,285,somewhat disagree,43658
+Tech Xplore,https://techxplore.com/,Center,7,10,somewhat disagree,42422
+TechCrunch,https://techcrunch.com/,Center,458,313,somewhat agree,1644
+Teen Vogue,https://www.teenvogue.com/,Lean Left,379,573,disagree,16655
+The Advocate,https://www.advocate.com/,Lean Left,9,18,strongly disagree,40712
+The Advocate-Messenger,https://www.amnews.com/,Lean Left,195,245,somewhat disagree,997866
+The American Conservative,https://www.theamericanconservative.com/,Lean Right,272,292,somewhat disagree,34052
+The American Mind,https://americanmind.org/,Lean Right,18,19,somewhat disagree,78889
+The American Spectator,https://spectator.org/,Right,10735,3770,strongly agree,39389
+The Appeal,https://theappeal.org/,Center,82,65,somewhat agree,144240
+The Atlantic,https://www.theatlantic.com/,Lean Left,11921,6137,agree,1472
+The Boston Globe,https://www.bostonglobe.com/,Lean Left,1653,1245,somewhat agree,5835
+The Bulwark,https://thebulwark.com/,Lean Right,27,27,,38857
+The Cadiz Record,https://www.kentuckynewera.com/cadiz_record/,Lean Left,189,196,somewhat disagree,792967
+The Canyon County Zephyr,https://www.canyoncountryzephyr.com/,Left,184,152,somewhat agree,3495525
+The Center Square - Michigan,https://www.thecentersquare.com/michigan/,Center,60,106,disagree,
+The Christian Post,https://www.christianpost.com/,Lean Right,1,1,,22076
+The College Fix,https://www.thecollegefix.com/,Right,228,172,somewhat agree,92790
+The Colorado Sun,https://coloradosun.com/,Lean Left,14,11,somewhat agree,44216
+The Commercial Appeal,https://www.commercialappeal.com/,Lean Left,174,235,somewhat disagree,87784
+The Courier-Journal,https://www.courier-journal.com/,Lean Left,204,297,somewhat disagree,30893
+The Daily Caller,https://dailycaller.com/,Right,8272,3435,strongly agree,1031
+The Daily Dot,https://www.dailydot.com/,Lean Left,95,87,somewhat agree,8782
+The Daily Signal,https://www.dailysignal.com/,Right,449,178,strongly agree,48363
+The Daily Wire,https://www.dailywire.com/,Right,7746,2874,strongly agree,2750
+The Dallas Morning News,https://www.dallasnews.com/,Center,197,176,somewhat agree,8811
+The Delaware County Daily Times,https://www.delcotimes.com/,Lean Left,209,243,somewhat disagree,200288
+The Dispatch,https://thedispatch.com/,Lean Right,89,56,agree,
+The Economist,https://www.economist.com/,Lean Left,4300,7714,disagree,2709
+The Epoch Times,https://www.theepochtimes.com/,Lean Right,7819,2666,strongly agree,577
+The Federalist,https://thefederalist.com/,Right,6869,2250,absolutely agree,8033
+The Flip Side,https://www.theflipside.io/,Mixed,382,274,somewhat agree,403109
+The Fulcrum,https://thefulcrum.us/,Center,131,122,somewhat agree,
+The Gateway Pundit,https://www.thegatewaypundit.com/,Right,787,458,agree,582
+The Globe and Mail,https://www.theglobeandmail.com/,Center,96,100,somewhat disagree,5654
+The Guardian,https://www.theguardian.com/,Lean Left,11015,6519,agree,134
+The Hill,https://thehill.com/,Center,13039,17223,somewhat disagree,1076
+The Hollywood Reporter,https://www.hollywoodreporter.com/,Lean Left,15,15,,4016
+The Imaginative Conservative,https://theimaginativeconservative.org/,Right,67,52,somewhat agree,203996
+The Independent,https://www.independent.co.uk/,Lean Left,398,293,somewhat agree,1060
+The Intercept,https://theintercept.com/,Left,3974,1217,absolutely agree,10788
+The Japan Times,https://www.japantimes.co.jp/,Center,12,7,agree,6206
+The Jerusalem Post,https://www.jpost.com/,Center,217,224,somewhat disagree,5363
+The Juggernaut,https://www.thejuggernaut.com/,Left,5,5,,
+The Justice,https://www.thejustice.org/,Lean Left,149,160,somewhat disagree,1291796
+The Korea Herald,http://www.koreaherald.com/,Center,193,134,somewhat agree,14984
+The Libertarian Republic,https://thelibertarianrepublic.com/,Lean Right,864,715,somewhat agree,167838
+The Lincoln Project,https://lincolnproject.us/,Mixed,11,73,absolutely disagree,
+The Lufkin Daily News,https://lufkindailynews.com/,Center,5,4,somewhat agree,493166
+The Maneater,https://www.themaneater.com/,Lean Left,4,2,agree,1894445
+The Marshall Project,https://www.themarshallproject.org/,Center,25,38,disagree,94746
+The Nation,https://www.thenation.com/,Left,1365,437,absolutely agree,21752
+The National Pulse,https://thenationalpulse.com/,Right,234,54,absolutely agree,30017
+The New Yorker,https://www.newyorker.com/,Left,7105,1738,absolutely agree,2711
+The Observer (New York),https://observer.com/,Center,232,413,disagree,16533
+The Onion (Humor),https://www.theonion.com/,Lean Left,203,114,agree,12129
+The Oracle,http://www.usforacle.com/,Center,101,128,somewhat disagree,1825447
+The Oregonian,https://www.oregonlive.com/,Center,8,31,absolutely disagree,6746
+The Philadelphia Inquirer,https://www.inquirer.com/,Lean Left,184,189,somewhat disagree,8348
+The Plebeian,https://theplebian.com/,Lean Left,30,30,,
+The Police Tribune,https://policetribune.com/,Lean Right,33,23,somewhat agree,
+The Post Millennial,https://thepostmillennial.com/,Lean Right,254,166,agree,18075
+The Press-Enterprise,https://www.pe.com/,Lean Right,1,10,absolutely disagree,60894
+The Red and Black,https://www.redandblack.com/,Center,183,133,somewhat agree,197635
+The Republican,https://www.therepublicannews.com,Center,226,479,strongly disagree,
+The Resurgent,https://www.thefirsttv.com/,Right,122,93,somewhat agree,
+The Root,https://www.theroot.com/,Lean Left,377,446,somewhat disagree,16126
+The Sacramento Bee,https://www.sacbee.com/,Lean Left,321,372,somewhat disagree,15453
+The Saturday Evening Post,https://www.saturdayeveningpost.com/,Center,195,144,somewhat agree,82130
+The Seattle Times,https://www.seattletimes.com/,Center,141,229,disagree,5770
+The Telegraph - UK,https://www.telegraph.co.uk/,Lean Right,1323,647,strongly agree,1249
+The Texan,https://thetexan.news/,Lean Right,110,85,somewhat agree,
+The Texas Observer,https://www.texasobserver.org/,Lean Left,59,67,somewhat disagree,249343
+The Texas Tribune,https://www.texastribune.org/,Lean Left,195,109,agree,17830
+The Verge,https://www.theverge.com/,Lean Left,690,462,somewhat agree,754
+The Week - News,https://theweek.com/,Center,3571,2933,somewhat agree,7958
+The Week - Opinion,https://theweek.com/section/opinion,Lean Left,126,94,somewhat agree,7958
+The Weekly Standard,https://www.weeklystandard.com/,Right,1338,811,agree,175928
+The Western Journal,https://www.westernjournal.com,Right,1425,512,strongly agree,505
+TheBlaze.com,https://www.theblaze.com/,Right,91631,75377,somewhat agree,3308
+ThinkProgress,https://thinkprogress.org/,Left,2711,882,absolutely agree,98462
+Time Magazine,https://time.com/,Lean Left,7521,6298,somewhat agree,1403
+Townhall,https://townhall.com/,Right,9430,13921,somewhat disagree,6867
+Truth or Fiction,https://www.truthorfiction.com/,Center,312,263,somewhat agree,143830
+Truthdig,https://www.truthdig.com/,Left,85,44,agree,251322
+TruthOut,https://truthout.org/,Lean Left,392,396,somewhat disagree,53583
+U.S. News & World Report,https://www.usnews.com/,Lean Left,1694,1837,somewhat disagree,725
+Univision,https://www.univision.com/,Lean Left,481,506,somewhat disagree,8650
+Upworthy,https://www.upworthy.com/,Left,486,327,somewhat agree,8688
+USA TODAY,https://www.usatoday.com/,Center,16242,16391,somewhat disagree,418
+Vanity Fair,https://www.vanityfair.com/,Lean Left,3614,2352,agree,3881
+Variety,https://variety.com/,Center,2,5,strongly disagree,2400
+Vice,https://www.vice.com/,Left,2255,610,absolutely agree,2201
+Virginia Mercury,https://www.virginiamercury.com/,Center,29,37,somewhat disagree,363659
+Voice of America,https://www.voanews.com/,Center,103,107,somewhat disagree,3493
+Volante,https://www.volantetech.com/,Center,162,175,somewhat disagree,855770
+Vox,https://www.vox.com/,Left,23997,14189,agree,1853
+VT Digger,https://vtdigger.org/,Lean Left,200,218,somewhat disagree,63521
+Wake Up to Politics,https://www.wakeuptopolitics.com/,Center,80,72,somewhat agree,5511042
+Wall Street Journal (News),https://www.wsj.com/,Center,18572,22148,somewhat disagree,423
+Wall Street Journal (Opinion),https://www.wsj.com/news/opinion,Lean Right,8909,6028,somewhat agree,423
+WANDTV,https://www.wandtv.com/,Center,59,68,somewhat disagree,261763
+Washington Examiner,https://www.washingtonexaminer.com/,Lean Right,9651,4468,strongly agree,6699
+Washington Free Beacon,https://freebeacon.com/,Right,640,549,somewhat agree,28709
+Washington Monthly,https://washingtonmonthly.com/,Lean Left,284,248,somewhat agree,82666
+Washington Post,https://www.washingtonpost.com/,Lean Left,32139,21050,agree,175
+Washington Times,https://www.washingtontimes.com/,Lean Right,25845,12411,strongly agree,7371
+Watchdog.org,http://watchdog.org/,Lean Right,566,609,somewhat disagree,7408527
+WFAE,https://www.wfae.org/,Center,186,195,somewhat disagree,350295
+WGBH,https://www.wgbh.org/,Center,387,339,somewhat agree,64410
+WGN,https://wgntv.com/,Center,111,128,somewhat disagree,27639
+Whatfinger News,https://www.whatfinger.com/,Right,185,144,somewhat agree,9684
+Whittier Daily News,https://www.whittierdailynews.com/,Center,6,11,disagree,291819
+Wired,https://www.wired.com/,Center,215,305,somewhat disagree,1590
+Wisconsin Gazette,https://www.wisconsingazette.com/,Lean Left,238,207,somewhat agree,1278452
+WND.com,https://www.wnd.com/,Right,747,295,strongly agree,6634
+Yahoo! News,https://news.yahoo.com/,Lean Left,3417,2153,agree,11
+Yes! Magazine,https://www.yesmagazine.org,Left,435,222,agree,125105
+ZeroHedge,https://www.zerohedge.com/,Lean Right,82,53,agree,1573

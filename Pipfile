@@ -1,0 +1,33 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyter = "*"
+waybackpy = "*"
+tqdm = "*"
+flake8 = "*"
+tld = "*"
+news-please = "*"
+spacy = "*"
+matplotlib = "*"
+numpy = "*"
+sklearn = "*"
+seaborn = "*"
+jupyterlab = "*"
+tokenizers = "*"
+gensim = "*"
+wefe = "*"
+pandas = "*"
+cdx-toolkit = "*"
+torch = "*"
+contractions = "*"
+unidecode = "*"
+flair = "*"
+wandb = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"

@@ -1,0 +1,100 @@
+{
+  "ethnicity": [
+    {
+      "name": "Ethnicity Test 1",
+      "metric": "WEAT",
+      "wordsets": {
+        "X": ["european_american"],
+        "Y": ["african_american"],
+        "A": ["pleasant"],
+        "B": ["unpleasant"]
+      }
+    },
+    {
+      "name": "Ethnicity Test 2",
+      "metric": "WEAT",
+      "wordsets": {
+        "X": ["european_american"],
+        "Y": ["chinese"],
+        "A": ["pleasant"],
+        "B": ["unpleasant"]
+      }
+    },
+    {
+      "name": "Ethnicity Test 3",
+      "metric": "WEAT",
+      "wordsets": {
+        "X": ["asian"],
+        "Y": ["chinese"],
+        "A": ["pleasant"],
+        "B": ["unpleasant"]
+      }
+    },
+    {
+      "name": "Ethnicity Test 4",
+      "metric": "WEAT",
+      "wordsets": {
+        "X": ["european_american"],
+        "Y": ["hispanic"],
+        "A": ["pleasant"],
+        "B": ["unpleasant"]
+      }
+    }
+  ],
+  "gender": [
+    {
+      "name": "Gender Test 1",
+      "metric": "WEAT",
+      "wordsets": {
+        "X": ["male"],
+        "Y": ["female"],
+        "A": ["career"],
+        "B": ["family"]
+      }
+    },
+    {
+      "name": "Gender Test 2",
+      "metric": "WEAT",
+      "wordsets": {
+        "X": ["math"],
+        "Y": ["arts"],
+        "A": ["male"],
+        "B": ["female"]
+      }
+    },
+    {
+      "name": "Gender Test 3",
+      "metric": "WEAT",
+      "wordsets": {
+        "X": ["science"],
+        "Y": ["arts"],
+        "A": ["male"],
+        "B": ["female"]
+      }
+    }
+  ],
+  "religion": [
+    {
+      "name": "Religion Test 1",
+      "metric": "WEAT",
+      "wordsets": {
+        "X": ["christianity"],
+        "Y": ["islam"],
+        "A": ["pleasant"],
+        "B": ["unpleasant"]
+      }
+    }
+  ],
+  "age": [
+    {
+      "name": "Age Test 1",
+      "metric": "WEAT",
+      "wordsets": {
+        "X": ["1990 names"],
+        "Y": ["1960 names"],
+        "A": ["pleasant"],
+        "B": ["unpleasant"]
+      }
+    }
+  ]
+}

@@ -37,7 +37,7 @@ The database file containing the news articles has two main tables, `article_url
 - `content_preprocessed`: The articles content split by sentences.
 - `langauge`: The langauge of the article, as identified by the [langdetect](https://github.com/Mimino666/langdetect) module (as [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)).
 
-To load the database into Python as a `pandas.DataFrame`, you can use the `get_articles_as_df()` method from [`src/util.py`](src/util.py). An example usage can be found in any of the jupyter notebooks in the [`notebooks`](notebooks) directory.
+To load the database into Python as a `pandas.DataFrame`, you can use the `get_articles_as_df()` method from [`src/embedding_bias/util.py`](src/util.py). An example usage can be found in any of the jupyter notebooks in the [`notebooks`](notebooks) directory.
 
 In case you want to re-create the dataset or want to expand the crawling using our code, you can use the following scripts (in that order):
 

@@ -2,7 +2,7 @@
 
 ORIENTATION="center"
 BATCH_SIZE=600
-RUN_ID="${ORIENTATION}-frage-v1"
+RUN_ID="${ORIENTATION}-frage-v0"
 
 python lm/pointer.py \
     --save "../../data/models/frage-lstm/${RUN_ID}--b${BATCH_SIZE}.pt" \

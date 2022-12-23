@@ -15,11 +15,7 @@ This repository contains the data, code and instructions to reproduce the result
 
 
 ## Downloads
-The datasets and trained models can be found at the following links:
-- Full dataset as SQLite database: https://seafile.cloud.uni-hannover.de/f/775d36380c4f4308b65a/?dl=1 (~4.5 GB)
-- All trained models: https://seafile.cloud.uni-hannover.de/f/a9be56019a1b4f7ba0ed/?dl=1 (~22.5 GB)
-- Allsides.com ranking file: https://seafile.cloud.uni-hannover.de/f/6e3f1cafb70f4fd7a1c2/?dl=1
-- All URLs from which articles were crawled; one text file per outlet: https://seafile.cloud.uni-hannover.de/f/0e8fc99054204bef9277/?dl=1 (~27 MB)
+The dataset files and trained models can be obtained through [Zenodo](https://doi.org/10.5281/zenodo.7476697).
 
 
 ## Dataset description & reproduction steps
@@ -31,7 +27,7 @@ The database file containing the news articles has two main tables, `article_url
 - `outlet_name`: The name of the news outlet that published the article.
 
 **article\_contents**:
-- `uuid`: An ID that uniquely identifies this content entry. This column is used as primary key for the table. The key is the same key used in the _articl\_urls_ table to allow for cross-referencing.
+- `uuid`: An ID that uniquely identifies this content entry. This column is used as primary key for the table. The key is the same key used in the _article\_urls_ table to allow for cross-referencing.
 - `date`: The automatically extracted publishing date of the article. If it was not possible to automatically extract the date, this field remains empty.
 - `content`: The plain text content of the article automatically extracted from the crawled HTML document.
 - `content_preprocessed`: The articles content split by sentences.

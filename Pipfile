@@ -26,6 +26,8 @@ contractions = "*"
 unidecode = "*"
 flair = "*"
 wandb = "*"
+datasets = "*"
+transformers = "*"
 
 [dev-packages]
 

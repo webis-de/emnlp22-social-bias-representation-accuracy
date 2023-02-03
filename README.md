@@ -1,15 +1,18 @@
 Evaluating Representation Accuracy for Social Bias in the Media
 ===============================================================
 
-This repository contains the data, code and instructions to reproduce the results of the paper ["No Word Embedding Model Is Perfect: Evaluating the Representation Accuracy for Social Bias in the Media"](https://arxiv.org/abs/2211.03634), as published at the EMNLP 2022 conference. Please find the full reference below:
+This repository contains the data, code and instructions to reproduce the results of the paper ["No Word Embedding Model Is Perfect: Evaluating the Representation Accuracy for Social Bias in the Media"](https://aclanthology.org/2022.findings-emnlp.152/), as published at the EMNLP 2022 conference. Please find the full reference below:
 
 ```
 @InProceedings{spliethoever:2022,
-  author =              {Maximilian Splieth{\"o}ver and Maximilian Keiff and Henning Wachsmuth},
-  booktitle =           {The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)},
-  publisher =           {Association for Computational Linguistics},
-  title =               {{No Word Embedding Model Is Perfect: Evaluating the Representation Accuracy for Social Bias in the Media}},
-  year =                2022
+  address =                  {Abu Dhabi, United Arab Emirates},
+  author =                   {Maximilian Splieth{\"o}ver and Maximilian Keiff and Henning Wachsmuth},
+  booktitle =                {Findings of the Association for Computational Linguistics: EMNLP 2022},
+  month =                    dec,
+  publisher =                {Association for Computational Linguistics},
+  title =                    {{No Word Embedding Model Is Perfect: Evaluating the Representation Accuracy for Social Bias in the Media}},
+  url =                      {https://aclanthology.org/2022.findings-emnlp.152/},
+  year =                     2022
 }
 ```
 

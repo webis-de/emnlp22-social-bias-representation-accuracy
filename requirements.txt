@@ -37,7 +37,7 @@ conllu==4.5.2 ; python_version >= '3.6'
 constantly==15.1.0
 contourpy==1.0.7 ; python_version >= '3.8'
 contractions==0.1.73
-cryptography==39.0.0 ; python_version >= '3.6'
+cryptography==39.0.1 ; python_version >= '3.6'
 cssselect==1.2.0 ; python_version >= '3.7'
 cycler==0.11.0 ; python_version >= '3.6'
 cymem==2.0.7

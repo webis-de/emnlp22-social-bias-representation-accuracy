@@ -81,7 +81,7 @@ idna==3.4 ; python_version >= '3.5'
 importlib-metadata==6.0.0 ; python_version < '3.10'
 incremental==22.10.0
 ipykernel==6.20.2 ; python_version >= '3.8'
-ipython==8.8.0 ; python_version >= '3.8'
+ipython==8.10.0 ; python_version >= '3.8'
 ipython-genutils==0.2.0
 ipywidgets==8.0.4 ; python_version >= '3.7'
 isoduration==20.11.0

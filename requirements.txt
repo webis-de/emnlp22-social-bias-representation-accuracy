@@ -170,7 +170,7 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycodestyle==2.10.0 ; python_version >= '3.6'
 pycparser==2.21
-pydantic==1.10.4 ; python_version >= '3.7'
+pydantic==1.10.13 ; python_version >= '3.7'
 pydispatcher==2.0.6
 pyflakes==3.0.1 ; python_version >= '3.6'
 pyfume==0.2.25 ; python_version >= '3.6'
